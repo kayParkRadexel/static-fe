@@ -1,7 +1,7 @@
 export default function Home() {
   return (
     <div>
-      <a href="https://www.google.com">Login</a>
+      <a href="http://demo-geo.trafficmanager.net/">Login</a>
     </div>
   );
 }
